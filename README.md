@@ -6,7 +6,8 @@ This is a customized apron LED case for ERCF V2, with Voron logo shaped diffuser
 |Item|Qty|
 |---|---|		
 |RGB LED strip - 8 LEDS |1|
-|M3x8 SHCS screws|3|	
+|M3x8 SHCS screws|3|
+|M3 T-nuts|3|
 
 Translucent filament for the diffusers
 

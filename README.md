@@ -1,4 +1,5 @@
 # Voron-Logo-apron-LED-case-for-ERCF-V2
+![ERCF Voron logo LEDs diffusers](https://github.com/C00lH4nds/Voron_Logo_apron_LED_case_for_ERCF_V2/assets/116689671/86e0b81f-0fa1-49e8-ab70-9cc65a5de812)
 ![voron logo led case](https://github.com/C00lH4nds/Voron_Logo_apron_LED_case_for_ERCF_V2/assets/116689671/d7660adb-0f39-40d5-a06d-7d47f0cc731d)
 
 This is a customized apron LED case for ERCF V2, with Voron logo shaped diffusers.
